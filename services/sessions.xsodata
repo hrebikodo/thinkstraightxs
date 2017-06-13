@@ -1,0 +1,3 @@
+service {
+    "FITFORWORK"."tblSession" as "sessions";
+}
